@@ -67,7 +67,7 @@ fromNextFriday: () => {
     // const nexFriday = getNextEventDate(13, indexMonth+1)
 
     // Test si un vendredi -> si ce n'est pas le cas, on passe au mois suivant
-    while (nextFriday.get Day()
+  
 }
 
 }
